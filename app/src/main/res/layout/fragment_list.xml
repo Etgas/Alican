@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <data>
+
+        <variable
+            name="viewModel"
+            type="com.generalmobile.app.odev.ui.main.list.ListFragmentViewModel" />
+    </data>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:id="@+id/ListFragment"
+    android:layout_height="match_parent"
+    tools:context=".ui.main.list.ListFragment">
+
+
+<androidx.recyclerview.widget.RecyclerView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/recyclerViewList"
+    />
+
+
+</LinearLayout>
+
+</layout>

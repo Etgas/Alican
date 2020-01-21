@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\Alican\\AndroidStudioProjects\\kotlin-android-mvvm-starter\\odev\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_movies.xml",
+        "source": "C:\\Users\\Alican\\AndroidStudioProjects\\kotlin-android-mvvm-starter\\odev\\app\\src\\main\\res\\layout\\fragment_movies.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alican\\AndroidStudioProjects\\kotlin-android-mvvm-starter\\odev\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_dashboard_acitivity.xml",
+        "source": "C:\\Users\\Alican\\AndroidStudioProjects\\kotlin-android-mvvm-starter\\odev\\app\\src\\main\\res\\layout\\activity_dashboard_acitivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alican\\AndroidStudioProjects\\kotlin-android-mvvm-starter\\odev\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_weather.xml",
+        "source": "C:\\Users\\Alican\\AndroidStudioProjects\\kotlin-android-mvvm-starter\\odev\\app\\src\\main\\res\\layout\\adapter_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alican\\AndroidStudioProjects\\kotlin-android-mvvm-starter\\odev\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_detay.xml",
+        "source": "C:\\Users\\Alican\\AndroidStudioProjects\\kotlin-android-mvvm-starter\\odev\\app\\src\\main\\res\\layout\\fragment_detay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alican\\AndroidStudioProjects\\kotlin-android-mvvm-starter\\odev\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_weather.xml",
+        "source": "C:\\Users\\Alican\\AndroidStudioProjects\\kotlin-android-mvvm-starter\\odev\\app\\src\\main\\res\\layout\\fragment_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alican\\AndroidStudioProjects\\kotlin-android-mvvm-starter\\odev\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_sys.xml",
+        "source": "C:\\Users\\Alican\\AndroidStudioProjects\\kotlin-android-mvvm-starter\\odev\\app\\src\\main\\res\\layout\\fragment_sys.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alican\\AndroidStudioProjects\\kotlin-android-mvvm-starter\\odev\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_dashboard_activity.xml",
+        "source": "C:\\Users\\Alican\\AndroidStudioProjects\\kotlin-android-mvvm-starter\\odev\\app\\src\\main\\res\\layout\\activity_dashboard_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alican\\AndroidStudioProjects\\kotlin-android-mvvm-starter\\odev\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_list.xml",
+        "source": "C:\\Users\\Alican\\AndroidStudioProjects\\kotlin-android-mvvm-starter\\odev\\app\\src\\main\\res\\layout\\fragment_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alican\\AndroidStudioProjects\\kotlin-android-mvvm-starter\\odev\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_languages.xml",
+        "source": "C:\\Users\\Alican\\AndroidStudioProjects\\kotlin-android-mvvm-starter\\odev\\app\\src\\main\\res\\layout\\fragment_languages.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alican\\AndroidStudioProjects\\kotlin-android-mvvm-starter\\odev\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_items_list_adapter.xml",
+        "source": "C:\\Users\\Alican\\AndroidStudioProjects\\kotlin-android-mvvm-starter\\odev\\app\\src\\main\\res\\layout\\fragment_items_list_adapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alican\\AndroidStudioProjects\\kotlin-android-mvvm-starter\\odev\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Alican\\AndroidStudioProjects\\kotlin-android-mvvm-starter\\odev\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alican\\AndroidStudioProjects\\kotlin-android-mvvm-starter\\odev\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_gecis.xml",
+        "source": "C:\\Users\\Alican\\AndroidStudioProjects\\kotlin-android-mvvm-starter\\odev\\app\\src\\main\\res\\layout\\fragment_gecis.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alican\\AndroidStudioProjects\\kotlin-android-mvvm-starter\\odev\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_movies.xml",
+        "source": "C:\\Users\\Alican\\AndroidStudioProjects\\kotlin-android-mvvm-starter\\odev\\app\\src\\main\\res\\layout\\adapter_movies.xml"
+    }
+]

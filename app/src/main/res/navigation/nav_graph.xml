@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/ListFragment">
+
+
+    <fragment
+        android:id="@+id/ListFragment"
+        android:name="com.generalmobile.app.odev.ui.main.list.ListFragment"
+        android:label="Liste"
+        tools:layout="@layout/fragment_list"
+
+        >
+
+
+
+        <action
+            android:id="@+id/action_ListFragment_to_detayFragment"
+            app:destination="@id/detayFragment" />
+        <action
+            android:id="@+id/action_ListFragment_to_moviesFragment"
+            app:destination="@id/moviesFragment" />
+    </fragment>
+
+
+
+    <fragment
+        android:id="@+id/detayFragment"
+        android:name="com.generalmobile.app.odev.ui.main.detay.DetayFragment"
+        android:label="Detay Liste"
+        tools:layout="@layout/fragment_detay">
+
+        <argument
+            android:name="id"
+            app:argType="integer"
+            android:defaultValue="0"
+            />
+
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/moviesFragment"
+        android:name="com.generalmobile.app.odev.ui.main.movies.MoviesFragment"
+        android:label="Movies"
+        tools:layout="@layout/fragment_movies"
+        />
+
+</navigation>

@@ -1,0 +1,4 @@
+# Referenced at C:\Users\Alican\AndroidStudioProjects\kotlin-android-mvvm-starter\odev\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:13
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\Alican\AndroidStudioProjects\kotlin-android-mvvm-starter\odev\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:13
+-keep class com.generalmobile.app.odev.App { <init>(); }

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <data>
+
+        <variable
+            name="viewModel"
+            type="com.generalmobile.app.odev.ui.main.detay.DetayFragmentViewModel" />
+    </data>
+
+    <LinearLayout
+        android:id="@+id/detayFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:orientation="horizontal"
+        tools:context=".ui.main.detay.DetayFragment">
+
+        <ImageView
+            android:id="@+id/imgDetay"
+            android:layout_width="wrap_content"
+            app:loadImage="@{viewModel.liste.image}"
+            android:layout_height="wrap_content"
+            android:paddingStart="24dp" />
+
+
+        <TextView
+            android:id="@+id/tvDetayAge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            app:loadAge="@{viewModel.liste.ageString()}"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/tvDetayTeam"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            app:loadTeam="@{viewModel.liste.team}"
+            android:textSize="15sp" />
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</layout>
